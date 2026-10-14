@@ -1,4 +1,4 @@
-Online Retail and Customer Analysis:
+**Online Retail and Customer Analysis:**
 
 Online Retail and Customer Analysis,This project focuses on analyzing online retail transaction data to understand sales performance, customer purchasing behavior, and business trends using Exploratory Data Analysis (EDA).
 
